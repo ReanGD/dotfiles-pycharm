@@ -21,6 +21,7 @@
   </action>
   <action id="CodeInspection.OnEditor" />
   <action id="CopyPaths" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
     <keyboard-shortcut first-keystroke="alt c" />
@@ -33,6 +34,9 @@
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="EditorJoinLines" />
   <action id="EditorLeft">
@@ -146,6 +150,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="Uml.ShowDiff" />
   <action id="UnselectPreviousOccurrence" />
   <action id="XDebugger.SetValue" />
   <action id="context.load" />
